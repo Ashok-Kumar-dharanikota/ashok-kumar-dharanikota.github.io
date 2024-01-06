@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.5rem;
+    padding: 10px 15px;
+    gap: 20px;
+    border-radius: 100px;
+    background: #FFF;
+    box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.05);
+}
+
+.navbar li {
+    list-style: none;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px 25px;
+
+}
+
+.navbar li a:hover {
+    border-radius: 30px;
+    background: #FFF;
+    box-shadow: 0px 4px 50px 0px rgba(0, 0, 0, 0.10);
+    transition: all ease-in 200ms;
+
+}

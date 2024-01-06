@@ -1,0 +1,128 @@
+{
+    "name": "Ashok Kumar Dharanikota",
+    "email": "ashokkumardharanikota7@gmail.com",
+    "phone": "+91 7780606516",
+    "location": "Narasaraopet",
+    "skills": {
+      "programming": {
+        "languages": ["C", "Java", "Python", "SQL", "HTML", "CSS", "JavaScript", "React", "Android", "Tailwind CSS", "SpringBoot"],
+        "other": ["AWS", "Git", "GitHub", "Firebase", "Windows", "Linux", "Microsoft 365"]
+      },
+      "softSkills": ["Good Communication Skills", "Problem Solving", "Team Player", "Leadership", "Self-motivated"]
+    },
+    "certifications": [
+      {
+        "name": "AWS CERTIFIED Cloud Practitioner",
+        "validity": "Nov 2023 - Nov 2026"
+      }
+    ],
+    "education": {
+      "university": "JNTUK UNIVERSITY",
+      "college": "Eswar College of Engineering",
+      "degree": "ECE | B.TECH",
+      "graduationDate": "April 2023",
+      "location": "Narasaraopet",
+      "cgpa": 7.0
+    },
+    "languagesSpoken": ["Telugu", "English"],
+    "links": {
+      "GitHub": "Ashok-d7",
+      "LinkedIn": "Ashok-d7",
+      "Portfolio": "Ashok-d7",
+      "Twitter": "Ashok-d7",
+      "Hashnode": "Ashok-d7",
+      "LeetCode": "Ashok-d7"
+    },
+    "internships": [
+      {
+        "title": "OPEN SOURCE CONTRIBUTOR",
+        "organization": "GSSoC'23, Hacktoberfest'23",
+        "date": "May 2023 - ongoing",
+        "location": "Remote",
+        "details": [
+          "Chosen to contribute as a participant in the prestigious Open source programs.",
+          "Contributed to numerous open-source projects.",
+          "Successfully Raised and merged 7 pull requests."
+        ]
+      },
+      {
+        "title": "JAVA FULL STACK DEVELOPER TRAINEE",
+        "organization": "KodNest",
+        "date": "March 2023 - May 2023",
+        "location": "Bangalore",
+        "details": [
+          "Selected as Full Stack Developer Trainee at KodNest.",
+          "Acquired web development, Java, and SQL skills.",
+          "Successfully executed ”Full Stack Web Application”."
+        ]
+      },
+      {
+        "title": "WINTER INTERNSHIP",
+        "organization": "IIT Kharagpur",
+        "date": "January 2023 - April 2023",
+        "location": "Kharagpur",
+        "details": [
+          "Trained a digits recognition machine learning model using Python.",
+          "Enhanced processing speed and reduced dependence on external servers.",
+          "Implemented on-device training of a machine learning model.",
+          "Incorporated a Tensorflow Lite ML model into Android application."
+        ]
+      },
+      {
+        "title": "Campus Ambassador",
+        "organization": "Frontlines EduTech (FLM)",
+        "date": "Dec 2021 - Sep 2022 (10 months)",
+        "location": "Remote",
+        "details": [
+          "Worked as Campus Ambassador in Frontlines EduTech company", 
+          "Enhancing professional skills like Leadership, Communication, Management, and technical skills like Python."
+        ]
+      }
+  
+    ],
+    "projects": [
+      {
+        "title": "WORDPRESS WEBSITE ON EC2 SERVER",
+        "technology": "AWS EC2, Linux",
+        "githubLink": "[Link]"
+      },
+      {
+        "title": "STATIC WEBSITE HOSTING",
+        "technology": "AWS S3, CloudFront",
+        "liveLink": "[Link]"
+      },
+      {
+        "title": "EMPLOYEE MANAGEMENT SYSTEM",
+        "technology": "Java, SpringBoot, React",
+        "description": "An Employee management system full-stack web application."
+      },
+      {
+        "title": "SHOPNEST",
+        "technology": "Java, Servlets, JSP",
+        "description": "An Ecommerce website to add items to the cart."
+      },
+      {
+        "title": "DIGIT CLASSIFIER ML APP",
+        "technology": "Java, Xml, Machine Learning",
+        "githubLink": "[Link]"
+      },
+      {
+        "title": "IOT-BASED WASTE MANAGEMENT APP",
+        "technology": "Java, Firebase, Xml",
+        "githubLink": "[Link]"
+      },
+      {
+        "title": "ONLINE LEARNING APPLICATION",
+        "technology": "Java, Xml, Api's",
+        "githubLink": "[Link]"
+      }
+    ],
+    "achievements": [
+      "5-STAR programmer in HackerRank.",
+      "Secured First Prize in a College’s Innovative Idea Contest.",
+      "Led a five-member team through a complex academic project.",
+      "Participated in the Accenture Developer Virtual Internship Program.",
+      "Involved in the J.P. Morgan Software Engineer Virtual Internship."
+    ]
+  }
+  
