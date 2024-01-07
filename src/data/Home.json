@@ -1,0 +1,27 @@
+{
+    "avatar": "path",
+    "name": "Ashok Kumar Dharanikota",
+    "title": "Full Stack Developer",
+    "about": "Hey there! 👋 I'm Ashok, a tech enthusiast on a mission to make the digital world cooler. From contributing to open-source projects, diving into Java and SQL wizardry, to crafting Full Stack Web Apps, I'm all about turning ideas into tech realities. When not coding, catch me listening to music or exploring new places. Let's connect the dots between creativity and code – because in my world, innovation is the name of the game! 🚀✨",
+    "social": [
+      {
+        "name": "Twitter",
+        "username": "@ashok_d7",
+        "url": "https://twitter.com/@ashok_d7",
+        "style": {
+          "width": "200px",
+          "height": "200px",
+          "background": "linear-gradient(180deg, #4EBCFF 0%, #1199ED 100%)",
+          "borderRadius": "36px",
+          "border": "2.017px solid rgba(255, 255, 255, 0.22)",
+          "padding": "25px",
+          "fontFamily": "'Inter', sans-serif",
+          "color": "white",
+          "display": "flex",
+          "flexDirection": "column",
+          "justifyContent": "space-between"
+        }
+      }
+    ]
+  }
+  

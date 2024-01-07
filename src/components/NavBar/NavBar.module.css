@@ -6,7 +6,7 @@
     padding: 10px 15px;
     gap: 20px;
     border-radius: 100px;
-    background: #FFF;
+    background: hsl(0, 0%, 100%);
     box-shadow: 0px 2px 50px 0px rgba(0, 0, 0, 0.05);
 }
 

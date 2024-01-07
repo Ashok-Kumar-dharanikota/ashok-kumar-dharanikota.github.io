@@ -1,6 +1,21 @@
 .home {
-    width: 60%;
-    height: 50%;
-    background: #F3F4F6;
+    width: auto;
+    height: auto;
+    background: #fff;
     padding: 20px;
+    display: grid;
+    gap: 20px;
+    grid-template-areas: "name name twitter github"
+                         "about about linkedin linkedin"
+                         "about about box box";
+}
+
+.about {
+    border-radius: 28.611px;
+    border: 2.111px solid rgba(0, 0, 0, 0.20);
+    padding: 40px;
+    width: 500px;
+    height: 430px;
+    margin-top: -50px;
+    line-height: 2.2;
 }
