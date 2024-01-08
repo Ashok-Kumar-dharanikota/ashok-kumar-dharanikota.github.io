@@ -54,8 +54,8 @@ const test = {
       url: "https://www.linkedin.com/in/ashok-kumar-dharanikota/",
       icon: "./../../public/social/linkedin.svg",
       style: {
-        minWidth: "200px",
-        minHeight: "200px",
+        minWidth: "150px",
+        minHeight: "150px",
         background: "linear-gradient(180deg, #6F7AFC 0%, #4554EE 100%)",
         borderRadius: "36px",
         border: "2.017px solid rgba(255, 255, 255, 0.22)",
